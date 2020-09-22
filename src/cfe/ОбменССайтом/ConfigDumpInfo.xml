@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.10">
+	<ConfigVersions>
+		<Metadata name="Catalog.ВидыЦен" id="f7752b54-0901-44b1-95a9-b1c0ae57785b" configVersion="1450d841ffcd0d1d0d5449279e7ea52cb5f55d56"/>
+		<Metadata name="Catalog.Контрагенты" id="8943effa-8dc0-4ac1-a1f0-8e796da2a141" configVersion="8d77e0a073dc006d92a03ea174825af8a423ad6f"/>
+		<Metadata name="Catalog.Номенклатура" id="719d89f3-fc41-440d-88af-c6b2fc7274a9" configVersion="47de01de3c73f32845e10bade303f047d27700e7"/>
+		<Metadata name="Catalog.НоменклатураПрисоединенныеФайлы" id="9887160f-4e09-4e79-8c1f-ff9d7e25d0d9" configVersion="e3594182fa47a2a1661daefa366d2135ad5d90e6"/>
+		<Metadata name="Catalog.Партнеры" id="a81bec40-11d1-4877-b986-6963bd950895" configVersion="b13f9523cb252790d2219684beb330cd39ed63da"/>
+		<Metadata name="Catalog.Склады" id="fb186189-2bcc-456f-8812-3d9e16504e6e" configVersion="77b2b3611fcb12c9a8a08be229b19120668e1eae"/>
+		<Metadata name="Catalog.СоглашенияСКлиентами" id="3a58babf-3122-40cc-95bd-7634040a30b4" configVersion="df4f41c81d1efa89d7bc7a6d2878c099172b38e9"/>
+		<Metadata name="Catalog.ХарактеристикиНоменклатуры" id="40268d54-b66e-4977-b870-9f13f316897f" configVersion="874412646dfb3d3f1a8ca91951d16687f052689f"/>
+		<Metadata name="Catalog.ос_НастройкиОбменаССайтами" id="1697945a-8fb4-4314-ad36-0fe20567158d" configVersion="8436e008822cd16da43c8b8b9845915fb2203a46">
+			<Metadata name="Catalog.ос_НастройкиОбменаССайтами.TabularSection.ГруппыНоменклатуры" id="04c43855-b8d3-4716-b052-fac7bbe5571f"/>
+			<Metadata name="Catalog.ос_НастройкиОбменаССайтами.TabularSection.Склады" id="2816e94e-ca63-44ac-b28b-38befbf4ca22"/>
+			<Metadata name="Catalog.ос_НастройкиОбменаССайтами.Attribute.ТипОбмена" id="2e19170b-54d3-49a2-ace2-c33f6b1fb11d"/>
+			<Metadata name="Catalog.ос_НастройкиОбменаССайтами.Attribute.ИдентификаторРегламентногоЗадания" id="332904f5-123d-4e26-9174-e5c790ccd014"/>
+			<Metadata name="Catalog.ос_НастройкиОбменаССайтами.TabularSection.Склады.Attribute.Склад" id="37e8f5e2-8a94-4fd1-81e9-160ff0ebfec9"/>
+			<Metadata name="Catalog.ос_НастройкиОбменаССайтами.Attribute.ХранилищеНастроек" id="46eeb7be-4e89-4a80-a625-f9b626d8c930"/>
+			<Metadata name="Catalog.ос_НастройкиОбменаССайтами.TabularSection.ГруппыНоменклатуры.Attribute.ГруппаНоменклатуры" id="49fdce19-8299-4831-afd1-3544c821177a"/>
+			<Metadata name="Catalog.ос_НастройкиОбменаССайтами.Attribute.ИспользоватьРасписание" id="70ace9e1-0bdc-4841-baa2-f7066d4bed86"/>
+			<Metadata name="Catalog.ос_НастройкиОбменаССайтами.TabularSection.ВидыЦен.Attribute.ВидЦены" id="7a63964d-bfdd-456b-a73a-69376cb10491"/>
+			<Metadata name="Catalog.ос_НастройкиОбменаССайтами.Attribute.Тест" id="7b672bba-3ffd-4211-96d1-c44e45355ca2"/>
+			<Metadata name="Catalog.ос_НастройкиОбменаССайтами.TabularSection.ВидыЦен" id="a8a166bf-9e12-44a7-9b1f-1ba1d86a91ec"/>
+			<Metadata name="Catalog.ос_НастройкиОбменаССайтами.Attribute.РегистрироватьИзмененияОстатков" id="c2dbc705-3549-441c-9ea8-e70d1ffb039e"/>
+			<Metadata name="Catalog.ос_НастройкиОбменаССайтами.Attribute.РегистрироватьИзмененияЦен" id="d1c15846-b76b-4323-8858-c2aca7b5f435"/>
+		</Metadata>
+		<Metadata name="Catalog.ос_НастройкиОбменаССайтами.ManagerModule" id="1697945a-8fb4-4314-ad36-0fe20567158d.3" configVersion="470b58bd7e18b3e00adf26805599c39f330212d9"/>
+		<Metadata name="Catalog.ос_НастройкиОбменаССайтами.ObjectModule" id="1697945a-8fb4-4314-ad36-0fe20567158d.0" configVersion="470b58bd7e18b3e00adf26805599c39f330212d9"/>
+		<Metadata name="CommonModule.КоннекторHTTP" id="1e478df9-dd5b-41a1-a58d-2736b5f9d4fd" configVersion="4b27432d06598f64178989c4c310a252db9e6a90"/>
+		<Metadata name="CommonModule.КоннекторHTTP.Module" id="1e478df9-dd5b-41a1-a58d-2736b5f9d4fd.0" configVersion="c1bbed55a46dadc7cb9dd915f65e045caa19caeb"/>
+		<Metadata name="CommonModule.ос_ОбработкаДанных" id="0b46ddf0-2a9d-4cf1-ae37-e420fd326ee3" configVersion="e401ae07a13cf8b5a9ddba0ba2a277283c158cb4"/>
+		<Metadata name="CommonModule.ос_ОбработкаДанных.Module" id="0b46ddf0-2a9d-4cf1-ae37-e420fd326ee3.0" configVersion="e57cd223e3081a03afcbe7c98a8de42f2ec215b7"/>
+		<Metadata name="CommonModule.ос_ОбработкаДанныхОбъекты" id="b407f1a5-dd5e-417e-a980-e3d8596ec8c2" configVersion="85f34318c7968754e3337a0d7925df8e057632d8"/>
+		<Metadata name="CommonModule.ос_ОбработкаДанныхОбъекты.Module" id="b407f1a5-dd5e-417e-a980-e3d8596ec8c2.0" configVersion="6d79d4d6988cf24ab011653b963f0e9db1be3a48"/>
+		<Metadata name="CommonModule.ос_ОбработкаДанныхРегистры" id="dec06861-b6ec-4cb1-9a5d-4d0787847d00" configVersion="5c987e8d2621446b15c331f8388917d694d1035a"/>
+		<Metadata name="CommonModule.ос_ОбработкаДанныхРегистры.Module" id="dec06861-b6ec-4cb1-9a5d-4d0787847d00.0" configVersion="12b8d0a209297c26889cba245c21d1cf674ff421"/>
+		<Metadata name="CommonModule.ос_РегистрацияИзмененийОбъекты" id="5fbecd1a-161b-4794-a87d-34e1e398accf" configVersion="3082007953989593539c7e468760e6982cdb7456"/>
+		<Metadata name="CommonModule.ос_РегистрацияИзмененийОбъекты.Module" id="5fbecd1a-161b-4794-a87d-34e1e398accf.0" configVersion="9194627f57ff67efc63c41fc7ea3f9c1e7f98564"/>
+		<Metadata name="CommonModule.ос_РегистрацияИзмененийРегистры" id="24babe7a-20d5-4687-8dff-168b0ee29831" configVersion="34dea093724b07e08abd0d16ea6313b3a02bfcf0"/>
+		<Metadata name="CommonModule.ос_РегистрацияИзмененийРегистры.Module" id="24babe7a-20d5-4687-8dff-168b0ee29831.0" configVersion="95f539edd44c0a6d3ffeaf8a84f82dd482039ea8"/>
+		<Metadata name="Configuration.ОбменССайтом" id="6dbab343-c5f6-404c-b8f6-93cd829596e3" configVersion="8fca9bcc550b4992deaad052cdabff22f27ad109"/>
+		<Metadata name="Document.ЗаказКлиента" id="7aa58048-3baa-4d51-9cce-c06d9adb2e82" configVersion="1c2c2e6fbd65abe1f8bd7c0ce63e21c37d3d8792"/>
+		<Metadata name="Enum.ос_ТипыДанныхДляОбмена" id="c3b2b29f-562e-4707-b7ce-040d30f388a2" configVersion="e6fc385764a81a7e58193b81961e483e8f4cacf1">
+			<Metadata name="Enum.ос_ТипыДанныхДляОбмена.EnumValue.ЗаказКлиента" id="10581755-2648-4d35-94a3-fc6bf513fd31"/>
+			<Metadata name="Enum.ос_ТипыДанныхДляОбмена.EnumValue.ХарактеристикаНоменклатуры" id="241c9716-8e6a-49c5-b6fb-9ea6574c5300"/>
+			<Metadata name="Enum.ос_ТипыДанныхДляОбмена.EnumValue.Контрагент" id="3fcdc5da-fa89-4357-8747-ab58e075a7de"/>
+			<Metadata name="Enum.ос_ТипыДанныхДляОбмена.EnumValue.Партнер" id="5bc569fd-0e7d-419c-bc08-a6e9509e3c0f"/>
+			<Metadata name="Enum.ос_ТипыДанныхДляОбмена.EnumValue.КартинкаНоменклатуры" id="709e15b5-1320-4893-8ef7-a5ae1efca4a7"/>
+			<Metadata name="Enum.ос_ТипыДанныхДляОбмена.EnumValue.Номенклатура" id="bb529b14-7b96-4b6f-906a-e142b3db7b6f"/>
+			<Metadata name="Enum.ос_ТипыДанныхДляОбмена.EnumValue.ГруппаНоменклатуры" id="bf3bba2b-8cd4-4362-891a-df457d476433"/>
+		</Metadata>
+		<Metadata name="Enum.ос_ТипыОбменовССайтами" id="0830962b-030c-43de-a558-7d6e776edf6c" configVersion="5ef3f00a59d63b66f3a5b4c5f254f36401301b11">
+			<Metadata name="Enum.ос_ТипыОбменовССайтами.EnumValue.БитриксAPI_Symfony" id="a8627e77-edc4-418e-9286-059acf189827"/>
+		</Metadata>
+		<Metadata name="InformationRegister.ос_ИдентификаторыОбъектов" id="0cc6c373-00a8-40f2-bda7-76edf83327c4" configVersion="edfd8e9eb913b4e9934bdb69410b8aa24218ae4b">
+			<Metadata name="InformationRegister.ос_ИдентификаторыОбъектов.Resource.Идентификатор" id="38c7dbe8-0ac6-48c7-8f82-e7a22474b7e5"/>
+			<Metadata name="InformationRegister.ос_ИдентификаторыОбъектов.Dimension.НастройкаОбмена" id="684ed013-16ac-4db7-ba34-dc6cf777d3c9"/>
+			<Metadata name="InformationRegister.ос_ИдентификаторыОбъектов.Dimension.Объект" id="c98372fa-ac80-4fba-b093-55a5d14a8b23"/>
+			<Metadata name="InformationRegister.ос_ИдентификаторыОбъектов.Dimension.ТипДанных" id="d1d21382-6457-44e8-b405-ec4dafd1bee8"/>
+		</Metadata>
+		<Metadata name="InformationRegister.ос_ИсторияИзменений" id="1d946d1d-cf6e-45ba-bc48-2e90dd4ccd90" configVersion="4ce15c80d32b8de1dba46b7a4b7ee409c154dd11">
+			<Metadata name="InformationRegister.ос_ИсторияИзменений.Dimension.Объект" id="3ee108d9-23cb-4f1f-ad9b-6456f1ca2a36"/>
+			<Metadata name="InformationRegister.ос_ИсторияИзменений.Dimension.НастройкаОбмена" id="4c99b480-01c2-4072-9817-19e640c9292b"/>
+			<Metadata name="InformationRegister.ос_ИсторияИзменений.Dimension.Тип" id="f27feb00-bbee-4759-aaf3-9d28d2132d26"/>
+			<Metadata name="InformationRegister.ос_ИсторияИзменений.Dimension.Дата" id="f575b0b9-3967-44b9-a614-8838150626bc"/>
+		</Metadata>
+		<Metadata name="InformationRegister.ос_ИсторияИзмененияОстатков" id="b1bc3662-65a3-4133-844e-c5d1e68a97b9" configVersion="94ab64406557b610d83160d88e844dc1c7519dda">
+			<Metadata name="InformationRegister.ос_ИсторияИзмененияОстатков.Dimension.НастройкаОбмена" id="34ffa846-5ad6-46eb-8292-ba0153a25210"/>
+			<Metadata name="InformationRegister.ос_ИсторияИзмененияОстатков.Dimension.Склад" id="7f422747-4656-49df-9768-1d585faa85e2"/>
+			<Metadata name="InformationRegister.ос_ИсторияИзмененияОстатков.Dimension.Номенклатура" id="9fe76dca-4cd6-4941-b4b6-98db5fd0f07d"/>
+			<Metadata name="InformationRegister.ос_ИсторияИзмененияОстатков.Dimension.Дата" id="a25c781c-b946-4a5f-9402-a4e02c6f89c5"/>
+			<Metadata name="InformationRegister.ос_ИсторияИзмененияОстатков.Dimension.Характеристика" id="c4d311f5-6e96-4d23-8112-750d3dac2da3"/>
+		</Metadata>
+		<Metadata name="InformationRegister.ос_ИсторияИзмененияЦен" id="29d6e642-de8e-403d-8e05-c1c19e4e0b3f" configVersion="7b1077ac30b12c61bf4762377052239f05df67ab">
+			<Metadata name="InformationRegister.ос_ИсторияИзмененияЦен.Dimension.ВидЦен" id="1350b6e4-888a-45d0-8a03-6b485f60fc2a"/>
+			<Metadata name="InformationRegister.ос_ИсторияИзмененияЦен.Dimension.Характеристика" id="1c617bfd-4d07-4c2e-8862-7059a4b219c4"/>
+			<Metadata name="InformationRegister.ос_ИсторияИзмененияЦен.Dimension.Дата" id="38378858-42a7-45ac-93d3-cbeb951d9a87"/>
+			<Metadata name="InformationRegister.ос_ИсторияИзмененияЦен.Dimension.Номенклатура" id="593eb7c6-0225-487f-9e26-a15c1c4f1236"/>
+			<Metadata name="InformationRegister.ос_ИсторияИзмененияЦен.Dimension.НастройкаОбмена" id="9df51f89-7a2c-4e08-bdcb-e3832f76a93d"/>
+		</Metadata>
+		<Metadata name="InformationRegister.ос_ОтправленныеДанные" id="1edc0b3c-d86a-469a-b17e-443b73203dd1" configVersion="0bb5a776b5cb8b8de72d29455f48e35ea67f1d4a">
+			<Metadata name="InformationRegister.ос_ОтправленныеДанные.Dimension.НастройкаОбмена" id="3122234e-592e-4fa5-87a7-5af67cfa15d1"/>
+			<Metadata name="InformationRegister.ос_ОтправленныеДанные.Attribute.Дата" id="6bace9e9-7a1a-449f-a77d-5d267f4d0661"/>
+			<Metadata name="InformationRegister.ос_ОтправленныеДанные.Attribute.СтрокаДанныеХэш" id="c4234ce6-c4f6-46d1-b18e-0491c638d4a4"/>
+			<Metadata name="InformationRegister.ос_ОтправленныеДанные.Dimension.Объект" id="d8f32d31-b0c7-474f-a361-15d143bc8595"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="80f91fe5-c0e6-45e4-a925-d0b8b80adff5" configVersion="2e7185fa086ea7873131c3d7a65fca55fd535c06"/>
+		<Metadata name="Role.ПолныеПрава" id="1ac65839-a3a3-4f5a-a063-fc80b739b479" configVersion="9a7ce7f120006234734e20112ed31cd61ad31686"/>
+		<Metadata name="Role.ПолныеПрава.Rights" id="1ac65839-a3a3-4f5a-a063-fc80b739b479.0" configVersion="531d552304348c3718adc55fdb63609e9ea7f024"/>
+		<Metadata name="Subsystem.ос_ОбменССайтами" id="785131c4-2b1d-47ef-87b8-051fffac1c3d" configVersion="b4aaacbd9709ab413f955b94d9049278e7325249"/>
+		<Metadata name="Subsystem.ос_ОбменССайтами.Subsystem.ос_Данные" id="2754c47c-cc0c-4161-8bad-fe75cbf3211a" configVersion="02cd7d8adaf45f223826c937639df0f527e4b06e"/>
+		<Metadata name="Subsystem.ос_ОбменССайтами.Subsystem.ос_Сервис" id="67becd64-3f25-4c18-b782-bbfa95782232" configVersion="6baf90fa3d403475806233222e5f6a0627b610a2"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
